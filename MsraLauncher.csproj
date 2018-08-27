@@ -7,8 +7,8 @@
     <ProjectGuid>{B50D83FF-C749-4755-82B5-4711F2C6B520}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MstscLauncher</RootNamespace>
-    <AssemblyName>MstscLauncher</AssemblyName>
+    <RootNamespace>MsraLauncher</RootNamespace>
+    <AssemblyName>MsraLauncher</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MstscLauncher.Program</StartupObject>
+    <StartupObject>MsraLauncher.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>network_places.ico</ApplicationIcon>
